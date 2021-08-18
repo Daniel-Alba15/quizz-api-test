@@ -111,9 +111,13 @@ Response is Json, structure is as follows:
 ```
 
 `category`: **Required**, string.
+
 `difficulty`: **Required**, string.
+
 `question`: **Required**, string.
+
 `correct_answer`: **Required**, boolean.
+
 `quiz_id`: **Required**, number.
 
 
@@ -124,9 +128,13 @@ Response is Json, structure is as follows:
 ```
 
 `category`: **Required**, string.
+
 `difficulty`: **Required**, string.
+
 `question`: **Required**, string.
+
 `correct_answer`: **Required**, boolean.
+
 `quiz_id`: **Required**, number.
 
 
