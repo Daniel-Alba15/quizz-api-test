@@ -3,7 +3,7 @@
 
 ### The Base-URL for all api calls:
 
-    https://quizz-api-test.herokuapp.com/api/
+    https://quizz-api-test.herokuapp.com/
 
 ### Response format
 
