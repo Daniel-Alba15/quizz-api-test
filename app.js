@@ -23,8 +23,8 @@ app.use(cookieParser());
 app.use('/api/quiz', quizesRouter);
 app.use('/api/question', questionsRouter);
 app.use('/api/user', usersRouter);
-app.use('/', (req, res) => {
-    res.send("Go to ");
+app.get('/', (req, res) => {
+    res.send("Go to https://github.com/Daniel-Alba15/quizz-api-test#readme for full documentation");
 });
 
 module.exports = app;
